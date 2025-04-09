@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Poppy Flower
+* source:	https://sketchfab.com/3d-models/minecraft-poppy-flower-09651d451f14481283e132222f25d8c1
+* author:	LoinkLoink (https://sketchfab.com/LoinkLoink)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Poppy Flower" (https://sketchfab.com/3d-models/minecraft-poppy-flower-09651d451f14481283e132222f25d8c1) by LoinkLoink (https://sketchfab.com/LoinkLoink) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
